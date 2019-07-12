@@ -8,7 +8,7 @@ pipeline {
                 }
             }
             steps {
-                sh 'python -v' 
+                sh 'python 1.py' 
             }
         }
     }
